@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+checkpoint/
+data/
+doc-CN/
+inference/
+results/
+*.npz
+*.npy
+*.out
+*.png
+*.md
